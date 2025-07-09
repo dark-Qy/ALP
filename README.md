@@ -43,6 +43,6 @@ If you use PIPE in your research, please cite our paper:
 ```
 @inproceedings{
   title={{PIPE: Identity-Aware Privacy-Enhanced Source and Path Verification for Strengthened Network Accountability}},
-  year={2025},
+  year={2025}
 }
 ```
